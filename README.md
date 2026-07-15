@@ -38,7 +38,7 @@ dashboard/    Streamlit app
 ## Roadmap
 
 - [x] Milestone 0: Project setup
-- [ ] Milestone 1: Dataset design
+- [x] Milestone 1: Dataset design
 - [ ] Milestone 2: Data cleaning
 - [ ] Milestone 3: Exploratory Data Analysis
 - [ ] Milestone 4: Feature engineering
