@@ -40,8 +40,8 @@ dashboard/    Streamlit app
 - [x] Milestone 0: Project setup
 - [x] Milestone 1: Dataset design
 - [x] Milestone 2: Data cleaning
-- [ ] Milestone 3: Exploratory Data Analysis
-- [ ] Milestone 4: Feature engineering
+- [x] Milestone 3: Exploratory Data Analysis
+- [x] Milestone 4: Feature engineering
 - [ ] Milestone 5: Isolation Forest model
 - [ ] Milestone 6: Risk scoring
 - [ ] Milestone 7: Streamlit dashboard
