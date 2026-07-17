@@ -42,9 +42,9 @@ dashboard/    Streamlit app
 - [x] Milestone 2: Data cleaning
 - [x] Milestone 3: Exploratory Data Analysis
 - [x] Milestone 4: Feature engineering
-- [ ] Milestone 5: Isolation Forest model
-- [ ] Milestone 6: Risk scoring
-- [ ] Milestone 7: Streamlit dashboard
+- [x] Milestone 5: Isolation Forest model
+- [x] Milestone 6: Risk scoring
+- [x] Milestone 7: Streamlit dashboard
 - [ ] Milestone 8: Documentation & deployment
 
 ## License
